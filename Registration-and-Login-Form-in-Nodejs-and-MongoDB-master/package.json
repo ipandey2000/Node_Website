@@ -1,0 +1,20 @@
+{
+  "name": "project-in-nodejs-and-mongodb",
+  "version": "1.0.0",
+  "description": "This is app  using Node.js, Express, Mongoose and express-sessions. ",
+  "main": "server.js",
+  "dependencies": {
+    "connect-mongo": "^3.2.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "mongoose": "^5.13.14"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Sandeep",
+  "license": "ISC"
+}
